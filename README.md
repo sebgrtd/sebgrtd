@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sebastien Gratade, a 17 years old french high schooler who enjoys coding!
-- 👀 I’m interested mainly in web developpment for now, but i do enjoy problem solving coding more or less easy algorithms
-- 🌱 I’m currently learning React framework for JS and i'll probably try learning to make a mobile app from scratch after that!
+- 👋 Hi, I’m Sebastien Gratade, an 18 years old french cs student!
+- 👀 My main interests are web developpment and web design, i would love to talk about that with you!
+- 🌱 I’m currently learning TS and Framer Motion at the moment.
 - 📫 How to reach me: gratade.sebastien@gmail.com
 
 <!---
