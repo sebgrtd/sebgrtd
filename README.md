@@ -2,7 +2,7 @@
 - 👀 My main interests are web developpment and web design, i would love to talk about that with you!
 - 🌱 I’m currently learning TS and Framer Motion at the moment.
 - 📫 How to reach me: gratade.sebastien@gmail.com
-- personnal website WIP: lobster-app-nzrvy.ondigitalocean.app
+- 💻 personnal website WIP: lobster-app-nzrvy.ondigitalocean.app
 
 <!---
 sebgrtd/sebgrtd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
