@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sebastien Gratade, a 19 years old french cs student!
 - 👀 My main interests are web developpment and web design, i would love to talk about that with you!
-- 🌱 I’m currently learning GSAP!
-- ⚡ React, TypeScript, Framer Motion, Express... and much more you'll see on my portfolio down below!
+- 🌱 I’m currently learning Flutter for cross platform mobile developpment!
+- ⚡ React, TypeScript, Framer Motion, GSAP, Express... and much more you'll see on my portfolio down below!
 - 📫 How to reach me: gratade.sebastien@gmail.com
 - 💻 personnal website: https://www.sebastien-gratade.fr
 
