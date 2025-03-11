@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sebastien Gratade, a 19 years old french web development student!
+- 👋 Hi, I’m Sebastien Gratade, a 20 years old french web development student!
 - 👀 My main interests are web developpment and web design, i would love to talk about that with you!
 - 🌱 I’m currently learning ThreeJS through theejsjourney to become a webGL god too 😎!
 - ⚡ React, TypeScript, Framer Motion, GSAP, Express... and much more you'll see on my portfolio down below!
